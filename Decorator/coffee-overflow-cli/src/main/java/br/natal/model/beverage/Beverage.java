@@ -10,5 +10,13 @@ public abstract class Beverage implements AbstractBeverage {
     public String getDescription() {
         return description;
     }
+
+    public AbstractTopping getToppings() {
+        return toppings;
+    }
+
+    public void setToppings(AbstractTopping toppings) {
+        this.toppings = toppings;
+    }
 }
 
