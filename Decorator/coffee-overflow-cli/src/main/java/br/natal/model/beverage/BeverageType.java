@@ -1,4 +1,4 @@
-package br.natal.model.beverage.concreteBeverages;
+package br.natal.model.beverage;
 
 public enum BeverageType {
 

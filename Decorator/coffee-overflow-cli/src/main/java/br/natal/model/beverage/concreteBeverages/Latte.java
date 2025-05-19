@@ -1,6 +1,7 @@
 package br.natal.model.beverage.concreteBeverages;
 
 import br.natal.model.beverage.Beverage;
+import br.natal.model.beverage.BeverageType;
 
 public class Latte extends Beverage {
 
