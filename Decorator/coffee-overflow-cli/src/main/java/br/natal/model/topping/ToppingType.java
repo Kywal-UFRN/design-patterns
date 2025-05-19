@@ -1,4 +1,4 @@
-package br.natal.model.topping.concreteToppings;
+package br.natal.model.topping;
 
 public enum ToppingType {
     Milk("Milk", 0.5),

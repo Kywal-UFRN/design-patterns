@@ -1,6 +1,7 @@
 package br.natal.model.topping.concreteToppings;
 
 import br.natal.model.topping.AbstractTopping;
+import br.natal.model.topping.ToppingType;
 import br.natal.model.topping.ToppingWrapper;
 
 public class Sugar extends ToppingWrapper {
