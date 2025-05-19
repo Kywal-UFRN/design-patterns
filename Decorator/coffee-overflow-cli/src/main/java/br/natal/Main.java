@@ -7,11 +7,12 @@ import br.natal.model.topping.concreteToppings.Sugar;
 import br.natal.model.topping.concreteToppings.WhippedCream;
 
 public class Main {
+
+    /**
+     *  Basic usage example
+     */
     public static void main(String[] args) {
 
-        /**
-         *  Basic usage example
-         */
         AbstractBeverage espresso = new Espresso();
         espresso.setToppings(new Sugar(new WhippedCream(new Milk())));
 
